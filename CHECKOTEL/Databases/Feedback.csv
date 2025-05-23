@@ -1,8 +1,8 @@
 ID,Account ID,Cleanliness,Facilities,Service,Comment
 20000000,1,4.5,3,4,"The room was clean, and the staff was helpful. Facilities could be improved."
-20000001,2,4,4,4,N/A
+20000001,2,4,4,4,
 20000002,3,2,4,4.5,The sheets were dirty. The concierge was very helpful.
-20000003,4,4.5,3.5,4,"The hotel was very clean. Service could be improved. Could use better facilities."
+20000003,4,4.5,3.5,4,The hotel was very clean. Service could be improved. Could use better facilities.
 20000004,5,4.5,3.5,4,The hotel was very clean. Staff was friendly and helpful. 
 20000005,6,4.5,3.5,4,The cleanliness was satisfactory. Front desk was not responsive. Elevators were slow.
 20000006,7,5,4.5,4.5,Great!
