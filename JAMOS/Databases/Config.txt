@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Yunasawa200/CHECKOTEL-Storage/refs/heads/main/JAMOS/Images/Books/@.jpg
+https://raw.githubusercontent.com/Yunasawa200/CHECKOTEL-Storage/refs/heads/main/JAMOS/Images/{Type}s/{ID}.jpg
