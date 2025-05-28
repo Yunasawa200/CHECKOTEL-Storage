@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/Yunasawa200/CHECKOTEL-Storage/refs/heads/main/JAMOS/Images/{Type}s/{ID}.jpg
-https://raw.githubusercontent.com/Yunasawa200/CHECKOTEL-Storage/refs/heads/main/JAMOS/Images/{Type}s/{ID}.{Format}
+https://raw.githubusercontent.com/Yunasawa200/CHECKOTEL-Storage/refs/heads/main/JAMOS/Streams/{Type}s/{ID}.{Format}
