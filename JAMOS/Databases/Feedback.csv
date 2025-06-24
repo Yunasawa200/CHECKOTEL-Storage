@@ -1,0 +1,53 @@
+UID,AccountID,Status,Quality,Usability,Feedback
+99000000,1,5,5,5,"Amazing from start to finish! The story is gripping, the characters unforgettable, and the writing superb. I couldn't put it down. Highly recommend!"
+99000001,2,4.5,5,4,Very capable tool with great potential. Setup was easy and stress-free.
+99000002,3,4,3.5,4.5,"Overall a good experience. The interface is intuitive, though some features can be refined for better performance."
+99000003,4,5,4.5,5,Excellent quality and usability. Everything worked smoothly and exceeded my expectations.
+99000004,5,3,3.5,4,The usability is decent but quality needs improvement. Felt limited in some areas.
+99000005,6,3.5,3,3.5,Some features are confusing and could use better documentation. Performance is fair.
+99000006,7,4.5,4,4.5,"Great overall performance. Fast, responsive, and relatively easy to learn for new users."
+99000007,8,4,4,4,A well-balanced product with decent features. Nothing groundbreaking but quite reliable.
+99000008,9,3.5,3.5,3.5,The platform is functional but lacks polish. Some bugs noticed during regular use.
+99000009,10,5,5,4.5,One of the best tools I’ve used. Great value and highly efficient.
+99000010,11,3,3,3,Needs significant improvement in both design and functionality to compete.
+99000011,12,4,4.5,4,The system runs smoothly and delivers a satisfying experience with only minor issues.
+99000012,13,4.5,4,5,"Very effective solution. Usability is top-notch, though quality can be enhanced slightly."
+99000013,14,3.5,3.5,4,"Fair performance. Not too difficult to use, but lacks some advanced options."
+99000014,15,4.5,5,4.5,Outstanding quality. Everything feels polished and professional.
+99000015,16,3,3.5,3,Basic functions work but the UI feels outdated. More features would be helpful.
+99000016,17,4,4.5,4.5,Quite impressive. Smooth interface and fast performance in most scenarios.
+99000017,18,3.5,4,3.5,"A few small issues with navigation, but nothing major. Fairly usable."
+99000018,19,5,5,5,Perfect in every aspect. I couldn’t find a single flaw during use.
+99000019,20,4,4,3.5,"The experience was mostly positive, though new users might face a learning curve."
+99000020,21,3.5,3.5,3,Interface is outdated and hard to navigate. Needs UI overhaul.
+99000021,22,4.5,4,4,Good value for the price. Performs consistently and doesn’t crash.
+99000022,23,4,4.5,4,Easy to get started with and runs well under different workloads.
+99000023,24,3.5,3,3.5,Instructions could be clearer. Took some time to understand the workflow.
+99000024,25,5,4.5,5,A robust system with minimal flaws. The design is modern and practical.
+99000025,26,3,3.5,3,Limited feature set. Would benefit from more customization options.
+99000026,27,4,4,4.5,Good performance overall. The system is quite intuitive and stable.
+99000027,28,3.5,3.5,4,"Decent usability, but performance lags occasionally under pressure."
+99000028,29,4.5,4.5,4,Very capable tool with great potential. Setup was easy and stress-free.
+99000029,30,3,3,3.5,Not ideal for advanced use cases. More features are required.
+99000030,31,4,3.5,4.5,Runs well but some design decisions hinder productivity at times.
+99000031,32,5,5,5,An exceptional experience. Everything works flawlessly.
+99000032,33,4.5,4.5,4.5,A very polished product. Offers great value and high usability.
+99000033,34,3.5,4,3.5,Functional but the learning curve is steeper than expected.
+99000034,35,4,4.5,4,Very user-friendly. Efficient for daily tasks and quite responsive.
+99000035,36,3,3.5,3.5,Usability is acceptable but the design feels cluttered and outdated.
+99000036,37,4.5,4,5,"Strong performance, particularly in terms of ease of use."
+99000037,38,3.5,3.5,3.5,"It works, but there’s nothing particularly impressive about it."
+99000038,39,5,4.5,5,High-quality and easy to use. Definitely worth the investment.
+99000039,40,4,4,4.5,Straightforward and performs well in most cases. Recommended.
+99000040,41,3,3,3,Struggles to deliver a smooth experience. Needs significant upgrades.
+99000041,42,4,4.5,4.5,Solid performance with minor lags during extended use.
+99000042,43,4.5,4.5,4,Highly capable and user-friendly. Some advanced settings are hard to find.
+99000043,44,3,3.5,3,Takes too long to complete basic tasks. Needs better optimization.
+99000044,45,4.5,5,4.5,Impressively fast and efficient. Interface is modern and sleek.
+99000045,46,3.5,3.5,4,"Reasonable for basic users, but advanced users may find it limiting."
+99000046,47,4,4,4,Consistent experience. Gets the job done without issues.
+99000047,48,5,4.5,5,Well-crafted and polished. High level of user satisfaction.
+99000048,49,4,4.5,4,Easy to pick up. Features are well-organized and intuitive.
+99000049,50,3.5,3,3.5,Navigating the menus can be frustrating. Needs UI refinement.
+99000050,51,4.5,4,4.5,"Good overall, particularly in functionality and performance."
+99000051,52,3,3.5,3,Not intuitive and lacks essential tools for efficiency.
